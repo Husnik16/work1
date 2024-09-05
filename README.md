@@ -1,4 +1,4 @@
-КОД БОТА 
+#КОД БОТА 
 
 import pyodbc
 import telebot
